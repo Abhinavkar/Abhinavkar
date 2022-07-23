@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [sit hub](https://github.com/Abhinavkar/SITHUB)
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently Developing projects **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhinavkar](https://github.com/Abhinavkar)
 
