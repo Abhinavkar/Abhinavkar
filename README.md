@@ -29,6 +29,6 @@
 
 
 <p><a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=SaijyotiTripathy&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Abhinavkar&theme=react&background=0d1117&border=666">
   </a></p>
 
