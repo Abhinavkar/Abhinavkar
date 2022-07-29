@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India.</h3>
 
 
-- 🔭 I’m currently working on [sit hub](https://github.com/Abhinavkar/SITHUB)
+- 🔭 I’m currently working on [Blog-app](https://github.com/Abhinavkar/SITHUB)
 
 - 🌱 I’m currently Learning & Developing projects **MERN**
 
@@ -28,5 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavkar&show_icons=true&locale=en" alt="abhinavkar" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkar&" alt="abhinavkar" /></p>
+<p><a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=SaijyotiTripathy&theme=react&background=0d1117&border=666">
+  </a></p>
 
