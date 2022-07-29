@@ -25,7 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavkar&show_icons=true&locale=en&layout=compact" alt="abhinavkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavkar&show_icons=true&locale=en" alt="abhinavkar" /></p>
+<p>&nbsp; <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavkar&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="165"></p>
+<h1 align = "center" >Contribution And Streaks </h1>
 
 
 <p><a href="https://git.io/streak-stats">
