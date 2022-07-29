@@ -22,15 +22,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavkar&show_icons=true&locale=en&layout=compact" alt="abhinavkar" /></p>
-
-<p>&nbsp; <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavkar&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="165"></p>
+<p align = "center">
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=Abhinavkar&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF" height="165"></p>
+<br>
+<center>
+<p align = "center"><img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavkar&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="165"></p>
 <h1 align = "center" >Contribution And Streaks </h1>
+<hr>
 
-
-<p><a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Abhinavkar&theme=react&background=0d1117&border=666">
+<p align = "center" ><a href="https://git.io/streak-stats">
+    <img align = "center" src="http://github-readme-streak-stats.herokuapp.com?user=Abhinavkar&theme=react&background=0d1117&border=666">
   </a></p>
 
