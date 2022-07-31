@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India.</h3>
 
 
-- 🔭 I’m currently working on [Blog-app](https://github.com/Abhinavkar/SITHUB)
+- 🔭 I’m currently working on [Blog-app](https://github.com/Abhinavkar/Blog-app)
 
 - 🌱 I’m currently Learning & Developing projects **MERN**
 
