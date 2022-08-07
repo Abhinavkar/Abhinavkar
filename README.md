@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABHINAV KAR</h1>
 <h3 align="center">A passionate Full stack developer from India.</h3>
-<p align="center"><img src="https://avatars.githubusercontent.com/u/75711413?v=4" height=200px border=none 2px></p>
+<p align="center">![alt text](https://avatars.githubusercontent.com/u/75711413?v=4)<img src="https://avatars.githubusercontent.com/u/75711413?v=4" height=200px border=none 2px></p>
 
 - 🔭 I’m currently working on [Blog-app](https://github.com/Abhinavkar/Blog-app)
 
