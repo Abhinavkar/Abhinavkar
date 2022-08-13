@@ -33,6 +33,6 @@
 <hr>
 
 <p align = "center" ><a href="https://git.io/streak-stats">
-    <img align = "center" src="http://github-readme-streak-stats.herokuapp.com?user=Abhinavkar&theme=react&background=0d1117&border=666">
+   <img align = "center" src="http://github-readme-streak-stats.herokuapp.com?user=Abhinavkar&theme=react&background=0d1117&border=666">
   </a></p>
 
