@@ -36,7 +36,7 @@
    <img align = "center" src="http://github-readme-streak-stats.herokuapp.com?user=Abhinavkar&theme=react&background=0d1117&border=666">
   </a></p>
   <div align="center">
-  <img src="https://profile-counter.glitch.me/Abhinav/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Abhinavkar/count.svg?"  />
 </div>
 
 ###
@@ -72,9 +72,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
 
