@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Blog-app](https://github.com/Abhinavkar/Blog-app)
 
-- 🌱 I’m currently Learning & Developing projects **MERN**
+- 🌱 I’m currently Learning & Developing projects **MERN AND MEAN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhinavkar](https://github.com/Abhinavkar)
 
