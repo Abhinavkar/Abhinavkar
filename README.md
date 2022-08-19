@@ -34,7 +34,7 @@
 
 <p align = "center" ><a href="https://git.io/streak-stats">
    <img align = "center" src="http://github-readme-streak-stats.herokuapp.com?user=Abhinavkar&theme=react&background=0d1117&border=666">
-  </a></p>
+   </a></p>
   <div align="center">
   <img src="https://profile-counter.glitch.me/Abhinavkar/count.svg?"  />
 </div>
@@ -70,5 +70,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
 </div>
 </p>
-###
 
