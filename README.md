@@ -29,7 +29,7 @@
 <p align = "center"><img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavkar&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="165"></p>
 <h1 align = "center" >Contribution And Streaks
  </h1>
-<hr>
+<hr><hr>
 
 <p align = "center" ><a href="https://git.io/streak-stats">
    <img align = "center" src="http://github-readme-streak-stats.herokuapp.com?user=Abhinavkar&theme=react&background=0d1117&border=666">
