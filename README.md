@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhinav-kar-031bb5202](https://www.linkedin.com/in/abhinav-kar-031bb5202)
 
-- ⚡ Fun fact **SEARCHING SOMETHING TO MAKE IT A DREAM**
+- ⚡ <img src="https://c.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" width="40px" height= "40px">&nbsp; **SEARCHING SOMETHING TO MAKE IT A DREAM**
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
