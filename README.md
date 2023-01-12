@@ -12,8 +12,22 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhinav-kar-031bb5202](https://www.linkedin.com/in/abhinav-kar-031bb5202)
 
-- ⚡ <img src="https://c.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" width="40px" height= "40px">&nbsp; **SEARCHING SOMETHING TO MAKE IT A DREAM**
+ <img src="https://media1.giphy.com/media/Ah2joXDamL6js4sTAv/giphy.gif?cid=790b7611e1ba46ac89ae48ba3b8e6d0278aea1093779e447&rid=giphy.gif" width="50" />&nbsp; **SEARCHING SOMETHING TO MAKE IT A DREAM**
+<br>
+ 
 
+<p align="left">  </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" width="900px" height= "300px />
+
+&nbsp;***Talking about Personal Stuffs...***
+
+◍ I’m currently learning **Web Development**<br>
+◍ I’m a **Full Stack Developer**<br>
+◍ I’m looking to collaborate with any **Open - Source contribution**<br>
+◍ I’m looking for help for learning **APIs**<br>
+◍ Other than programming and building projects I love to play **Cricket** and **Volleyball**<br>
+◍ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+<br><br>
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://fb.com/abhinavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinav kar" height="30" width="40" /></a>
