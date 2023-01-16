@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/75711413?v=4" height=200px border=none 2px></p>
 
-- 🔭 I’m currently working on [Blog-app](https://github.com/Abhinavkar/Blog-app)
+- 🔭 I’m currently contributing open source
 
 - 🌱 I’m currently Learning & Developing projects **MERN AND MEAN**
 
