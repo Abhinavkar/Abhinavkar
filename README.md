@@ -10,7 +10,7 @@
 
 - 📫 How to reach me [**karabhinav24@gmail.com**](mailto:karabhinav24@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abhinav-kar-031bb5202](https://www.linkedin.com/in/abhinav-kar-031bb5202)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/abhinav-kar-031bb5202)
 
  <img src="https://media1.giphy.com/media/Ah2joXDamL6js4sTAv/giphy.gif?cid=790b7611e1ba46ac89ae48ba3b8e6d0278aea1093779e447&rid=giphy.gif" width="50" />&nbsp; **SEARCHING SOMETHING TO MAKE IT A DREAM**
 <br>
