@@ -2,14 +2,13 @@
 <h3 align="center">A passionate Full stack developer from India.</h3>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/75711413?v=4" height=200px border=none 2px></p>
-
 - 🔭 I’m currently contributing open source
 
 - 🌱 I’m currently Learning & Developing projects **MERN AND MEAN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhinavkar](https://github.com/Abhinavkar)
 
-- 📫 How to reach me **karabhinav24@gmail.com**
+- 📫 How to reach me [**karabhinav24@gmail.com**](mailto:karabhinav24@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhinav-kar-031bb5202](https://www.linkedin.com/in/abhinav-kar-031bb5202)
 
