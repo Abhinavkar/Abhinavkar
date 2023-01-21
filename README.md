@@ -19,7 +19,6 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" width="900px" height= "300px />
 
 &nbsp;***Talking about Personal Stuffs...***
-
 ◍ I’m currently learning **Web Development**<br>
 ◍ I’m a **Full Stack Developer**<br>
 ◍ I’m looking to collaborate with any **Open - Source contribution**<br>
