@@ -32,7 +32,6 @@
 <a href="https://instagram.com/abhinav_kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinav_kar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhinavk ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinav kar" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align = "center">
 <img align = "center" src="https://github-readme-stats.vercel.app/api?username=Abhinavkar&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF" height="165"></p>
