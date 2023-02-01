@@ -1,26 +1,37 @@
 <h1 align="center">Hi 👋, I'm ABHINAV KAR</h1>
 <h3 align="center">A passionate Full stack developer from India.</h3>
-<p align="center"><img src="https://avatars.githubusercontent.com/u/75711413?v=4" height=200px border=none 2px></p>
-
-- 🔭 I’m currently working on [Blog-app](https://github.com/Abhinavkar/Blog-app)
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/75711413?v=4" height=200px border=none 2px></p>
+- 🔭 I’m currently contributing open source
 
 - 🌱 I’m currently Learning & Developing projects **MERN AND MEAN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhinavkar](https://github.com/Abhinavkar)
 
-- 📫 How to reach me **karabhinav24@gmail.com**
+- 📫 How to reach me [**karabhinav24@gmail.com**](mailto:karabhinav24@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abhinav-kar-031bb5202](https://www.linkedin.com/in/abhinav-kar-031bb5202)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/abhinav-kar-031bb5202)
 
-- ⚡ <img src="https://c.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" width="40px" height= "40px">&nbsp; **SEARCHING SOMETHING TO MAKE IT A DREAM**
+ <img src="https://media1.giphy.com/media/Ah2joXDamL6js4sTAv/giphy.gif?cid=790b7611e1ba46ac89ae48ba3b8e6d0278aea1093779e447&rid=giphy.gif" width="50" />&nbsp; **SEARCHING SOMETHING TO MAKE IT A DREAM**
+<br>
+<p align="left">  </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" width="900px" height= "300px />
 
+&nbsp;***Talking about Personal Stuffs...***
+
+◍ I’m currently learning **Web Development**<br>
+◍ I’m a **Full Stack Developer**<br>
+◍ I’m looking to collaborate with any **Open - Source contribution**<br>
+◍ I’m looking for help for learning **APIs**<br>
+◍ Other than programming and building projects I love to play **Cricket** and **Volleyball**<br>
+◍ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+<br><br>
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://fb.com/abhinavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinav kar" height="30" width="40" /></a>
 <a href="https://instagram.com/abhinav_kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinav_kar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhinavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinav kar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhinavk ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinav kar" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align = "center">
 <img align = "center" src="https://github-readme-stats.vercel.app/api?username=Abhinavkar&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF" height="165"></p>
@@ -68,5 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
 </div>
+
 </p>
 
